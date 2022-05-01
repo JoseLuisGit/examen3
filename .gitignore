@@ -1,0 +1,6 @@
+.terraform.lock.hcl
+.terraform/
+bionic-server-cloudimg-amd64.img
+terraform_1.1.9_linux_amd64.zip
+terraform.tfstate
+terraform.tfstate.backup
